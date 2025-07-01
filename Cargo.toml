@@ -1,0 +1,12 @@
+[package]
+name = "chip_8"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+sdl3 = { version = "0.14.33", features = ["image", "build-from-source"] }
+gtk4 = "0.7"
+rodio = "0.17"
+rand = "0.8"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
