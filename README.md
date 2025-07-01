@@ -13,6 +13,7 @@ I aimed to write clean Rust code, avoiding `unwrap()` where possible, and levera
 - **Theme Switching**: Toggle between dark and light themes for the GTK4 UI
 - **Customizable Speed**: Configurable CPU cycle speed (~500Hz) for accurate gameplay
 - **Cross-Platform**: Built with Rust, GTK4, and SDL3 for compatibility on Linux and Windows
+![image](https://github.com/user-attachments/assets/aa8cdae7-a0f9-4c4a-b00e-8a4b697771bc)
 
 ## Installation
 
@@ -165,4 +166,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 **Euclidae** is a passionate developer with interests in Rust programming, RPG games, and anime (especially Naruto). Check out more projects at [github.com/Euclidae](https://github.com/Euclidae).
 
 ## Todo
-** Fix that Light and Dark mode toggler. Will be on hiatus for a bit to focus on Alcides. **
+** Fix that Light and Dark mode toggler. It doesn't work on Fedora for some reason. Works fine on windows. Will be on hiatus for a bit to focus on Alcides. **
